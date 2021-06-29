@@ -1,0 +1,6 @@
+1. Acceder desde otro os
+2. copiar estos elemento y reemplazar los del mismo nombre de la carpeta %DRIVE%\Windows\System32\
+3. Reinicaiar equipo y usar teclado en pantalla o activar teclas especiales.
+
+C:\Windows\System32>whoami
+NT Authority\SYSTEM
